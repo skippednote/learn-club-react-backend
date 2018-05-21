@@ -1,0 +1,7 @@
+name: lcr
+recipe: drupal8
+config:
+  webroot: web
+  xdebug: true
+  conf:
+    php: .vscode/php.ini
